@@ -1,5 +1,3 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Software+Engineer](https://git.io/typing-svg)
-
 - A focused and goal-driven individual with a strong work ethic and commitment to offering quality work
 - Skilled in Python, Java, Kotlin, Javascript, Typescript, SQL, NoSQL, Machine Learning, DevOps, and Cloud (GCP & AWS)
 - Experience in designing databases, data warehouses, data pipelines, ML models, dashboards and reports, web apps, mobile apps, and APIs

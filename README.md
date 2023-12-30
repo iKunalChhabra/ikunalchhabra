@@ -4,6 +4,9 @@
 - A proactive learner with a flair for adopting emerging trends and addressing industry requirements to
 achieve organizational objectives and profitability norms
 - An effective communicator with strong analytical, logical, and interpersonal skills
+
+**Fastest way to reach me is email : kunal@kunalchhabra.com**
+  
 #
 [![Linkedin Badge](https://img.shields.io/badge/Kunal_Chhabra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iKunalChhabra)](https://www.linkedin.com/in/iKunalChhabra)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Kunal_Chhabra-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/iKunalChhabra)](https://github.com/iKunalChhabra)
